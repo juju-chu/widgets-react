@@ -1,3 +1,11 @@
+# widgets
+
+## 功能
+* 可動態展開選單
+
+## UI framework
+使用 [Semantic UI](https://semantic-ui.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
